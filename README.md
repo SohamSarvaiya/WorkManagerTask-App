@@ -1,4 +1,6 @@
 Jetpack Compose WorkManager Demo (2024)
+
+
 This project demonstrates the usage of WorkManager in a Jetpack Compose application with the latest updates for 2024. It showcases how to efficiently handle background tasks like downloading and processing images while adhering to Android's modern app architecture.
 
 Features
