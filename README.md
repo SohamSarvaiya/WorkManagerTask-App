@@ -29,3 +29,6 @@ Built with Jetpack Compose for a fully declarative UI.
 Demonstrates WorkManager's capabilities for handling long-running or deferred tasks.
 Easy-to-understand implementation, ideal for learning and extending further.
 Feel free to clone, explore, and modify the code to better understand WorkManager's usage in modern Android development!
+
+⭐️ Support This Project
+If you find this project useful or insightful, please give it a ⭐️ on GitHub and follow me for more exciting projects!
