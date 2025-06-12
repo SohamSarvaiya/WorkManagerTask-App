@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.domain
 
 import android.content.Context
 import android.graphics.*

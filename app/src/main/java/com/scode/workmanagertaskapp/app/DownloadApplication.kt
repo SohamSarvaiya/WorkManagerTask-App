@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.app
 
 import android.app.Application
 import android.app.NotificationChannel

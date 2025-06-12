@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -15,6 +15,9 @@ import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
 import androidx.work.*
 import coil.compose.rememberImagePainter
+import com.scode.workmanagertaskapp.domain.DownloadWorker
+import com.scode.workmanagertaskapp.domain.WorkerKeys
+import com.scode.workmanagertaskapp.domain.ColorFilterWorker
 import com.scode.workmanagertaskapp.ui.theme.WorkManagerTaskAppTheme
 
 class MainActivity : ComponentActivity() {

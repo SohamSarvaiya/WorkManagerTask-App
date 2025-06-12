@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.domain
 
 import android.content.Context
 import androidx.core.app.NotificationCompat
@@ -7,6 +7,8 @@ import androidx.work.CoroutineWorker
 import androidx.work.ForegroundInfo
 import androidx.work.WorkerParameters
 import androidx.work.workDataOf
+import com.scode.workmanagertaskapp.R
+import com.scode.workmanagertaskapp.data.FileApi
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext

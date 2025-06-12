@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.domain
 
 object WorkerKeys {
     const val ERROR_MSG = "errorMsg"

@@ -1,4 +1,4 @@
-package com.scode.workmanagertaskapp
+package com.scode.workmanagertaskapp.data
 
 import okhttp3.ResponseBody
 import retrofit2.Response
